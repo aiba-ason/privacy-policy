@@ -17,4 +17,4 @@ Your data is securely stored using Supabase (cloud database).
 We do not sell your data to third parties.
 
 ## Contact
-For privacy-related questions: tomo.answel@gmail.com
+For privacy-related questions: info@story-english.seventh-phase.com
